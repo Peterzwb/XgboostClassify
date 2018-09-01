@@ -1,0 +1,2 @@
+# XgboostClassify
+这是一个使用xgboost对短文本进行分类并与tfidf进行比对结果的程序
